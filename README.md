@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manmeet Matharoo</h1>
+<h1 align="center">Hi 👋, I'm Manmeet Kaur</h1>
 <h3 align="center">💖 Frontend Developer | 🌸 Tech Girl | 🚀 IoT Enthusiast | 🇮🇳 From India</h3>
 
 ---
